@@ -21,7 +21,7 @@ Ask her out Date, Movie Test Your LUCK!
 ## ⚠️ Disclaimer
 This is a **fun prank** project. Please use it responsibly and with good intentions.
 
-## MADE AND OWNED BT
+## MADE AND OWNED BY
 - MD AMIR SHOAIB
 - Please Support On Github & Give A Like If you found it useful!!
 - Do Check My Other Repo's
