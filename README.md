@@ -3,7 +3,7 @@
 Welcome to **Ask Her Out**, a fun and playful website prank! 😄
 This project is just for laughs — a cute prank to tease your friends or crush!
 If they finally click **"YES"**, your phone number appears so they can call you and (maybe!) go on a date. 📞❤️
-CUSTOMIZE WITH YOUR CREATIVENESS IDEA =S AND CHANGE WORDS 
+CUSTOMIZE WITH YOUR CREATIVENESS IDEAS AND CHANGE ACCORDINGLY. 
 
 ## (Screenshots)
 ![First](first.png)
